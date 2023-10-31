@@ -1,17 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T22:05:08.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="KbujXABFyjS4cnZeZEGk" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-31T22:25:29.337Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="3BwTEvPuj7GbFwKj8LF7" version="22.0.8" type="github" pages="2">
   <diagram name="Página-1" id="MP5_-ijwoZsD_Xfd1zwi">
-    <mxGraphModel dx="880" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1145" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GP5UtSploN3r0lsSOSVI-1" value="Início" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="80" y="150" width="160" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="GP5UtSploN3r0lsSOSVI-3" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="159.5" y="280" as="sourcePoint" />
-            <mxPoint x="160" y="320" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="60" y="100" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GP5UtSploN3r0lsSOSVI-5" value="Saldo &quot;S&quot;" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
           <mxGeometry x="90" y="500" width="140" height="100" as="geometry" />
@@ -22,8 +16,8 @@
             <mxPoint x="160" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GP5UtSploN3r0lsSOSVI-8" value="&lt;div&gt;Solicitar o Saldo Inicial&lt;/div&gt;&lt;div&gt;da Peça&lt;br&gt;&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="340" width="160" height="90" as="geometry" />
+        <mxCell id="GP5UtSploN3r0lsSOSVI-8" value="&lt;div&gt;&amp;nbsp;Mostrar N° de Peças&lt;/div&gt;&lt;div&gt;no Estoque&lt;/div&gt;" style="shape=display;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="52.5" y="240" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="GP5UtSploN3r0lsSOSVI-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -52,11 +46,17 @@
         <mxCell id="GP5UtSploN3r0lsSOSVI-18" value="Venda= Subtrair Q-S (Se Q &amp;lt; OU = S)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="220" y="850" width="170" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="DKV_Mai-vWEcqswvaKRd-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="124.5" y="190" as="sourcePoint" />
+            <mxPoint x="124.5" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="zAwM45DpHathXPrW85D2" name="Página-2">
-    <mxGraphModel dx="1120" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="1527" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
