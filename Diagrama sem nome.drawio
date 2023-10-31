@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T13:53:02.784Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="_Y2k_0YuqLopNvR02TWj" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-31T13:55:35.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="3S3a8uEixXGQziOrJQaR" version="22.0.8" type="github" pages="2">
   <diagram name="Página-1" id="MP5_-ijwoZsD_Xfd1zwi">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zAwM45DpHathXPrW85D2" name="Página-2">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,24 +127,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-20" value="&lt;div&gt;V&amp;lt; OU = E &lt;br&gt;&lt;/div&gt;&lt;div&gt;ENTÃO OK&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="980" y="385" width="120" height="70" as="geometry" />
+          <mxGeometry x="1010" y="385" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-21" value="E-V SE:" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="850" y="460" width="120" height="70" as="geometry" />
+          <mxGeometry x="910" y="480" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="URq3C6O7KlHp4ZyZ8w96-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="URq3C6O7KlHp4ZyZ8w96-11" target="URq3C6O7KlHp4ZyZ8w96-21">
+        <mxCell id="URq3C6O7KlHp4ZyZ8w96-22" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="800" y="525" as="sourcePoint" />
-            <mxPoint x="850" y="475" as="targetPoint" />
+            <mxPoint x="855" y="586.13" as="sourcePoint" />
+            <mxPoint x="920" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-23" value="&lt;div&gt;V&amp;gt; E &lt;br&gt;&lt;/div&gt;&lt;div&gt;SALDO INSUFICIENTE&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="990" y="530" width="120" height="70" as="geometry" />
+          <mxGeometry x="1000" y="540" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="940" y="480" as="sourcePoint" />
-            <mxPoint x="990" y="430" as="targetPoint" />
+            <mxPoint x="1000" y="500" as="sourcePoint" />
+            <mxPoint x="1050" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="URq3C6O7KlHp4ZyZ8w96-21">
@@ -154,7 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-26" value="DESCONSIDERAR ATUALIZAÇÃO DO SALDO" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="990" y="640" width="120" height="70" as="geometry" />
+          <mxGeometry x="1000" y="640" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="URq3C6O7KlHp4ZyZ8w96-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -164,6 +164,21 @@
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-28" value="TODA VEZ QUE ADD C MOSTRAR O SALDO ATUALIZADO " style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="830" y="160" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="URq3C6O7KlHp4ZyZ8w96-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="930" y="170" as="sourcePoint" />
+            <mxPoint x="980" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="URq3C6O7KlHp4ZyZ8w96-30" value="TODA VEZ QUE ADD V MOSTRAR SALDO ATUA" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="780" y="550" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="URq3C6O7KlHp4ZyZ8w96-31" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="URq3C6O7KlHp4ZyZ8w96-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="715" y="575" as="sourcePoint" />
+            <mxPoint x="765" y="525" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
