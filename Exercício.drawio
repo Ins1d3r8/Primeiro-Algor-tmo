@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T11:55:17.299Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="Eslwp2sa10gM6W11rRxi" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-10T13:52:55.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="9cY-kxislAIhOWMZBvZR" version="22.1.0" type="github" pages="2">
   <diagram name="Página-1" id="qLZbmSQhSmrtXH5lS6hR">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -521,6 +521,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wvz_z9VY7CSaRn-tdoof-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wvz_z9VY7CSaRn-tdoof-73">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2570" y="-310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="wvz_z9VY7CSaRn-tdoof-73" value="FALTAS" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2500" y="-240" width="140" height="130" as="geometry" />
         </mxCell>
@@ -532,8 +537,20 @@
         <mxCell id="wvz_z9VY7CSaRn-tdoof-78" value="Quantidade de Faltas" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" vertex="1" parent="1">
           <mxGeometry x="2730" y="-215.62" width="130" height="81.25" as="geometry" />
         </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-80" value="jjjj" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2910" y="-230" width="200" height="110" as="geometry" />
+        <mxCell id="wvz_z9VY7CSaRn-tdoof-80" value="&lt;div&gt;O Aluno só pode faltar em 25% do tempo de Cada unidade Curricular nas modalidades Técnicas e Qualificaçoes&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2910" y="-245" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="wvz_z9VY7CSaRn-tdoof-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wvz_z9VY7CSaRn-tdoof-82" target="wvz_z9VY7CSaRn-tdoof-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wvz_z9VY7CSaRn-tdoof-82" value="Aluno não aceito" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="-390" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="wvz_z9VY7CSaRn-tdoof-83" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="-340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wvz_z9VY7CSaRn-tdoof-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yRRa8dfKZeT0o8Y3_q3s-8" target="wvz_z9VY7CSaRn-tdoof-83">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
