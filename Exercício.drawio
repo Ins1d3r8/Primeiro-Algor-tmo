@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T13:20:39.357Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DeVtle6daWl9WziFw1Lm" version="22.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-11T13:49:28.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="fqtxwHig6HYYGoQQqb7H" version="22.1.0" type="github" pages="2">
   <diagram name="Página-1" id="qLZbmSQhSmrtXH5lS6hR">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="irQPnyyN6E-3qDbWZOrh" name="TESTAGEM">
-    <mxGraphModel dx="1707" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7020" dy="5872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3500" pageHeight="4000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -474,42 +474,11 @@
         <mxCell id="wvz_z9VY7CSaRn-tdoof-60" value="Aluno deve Obter a Média 7 em Cada UC (Unidade Curricular), em um total de 12 UC" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="2910" y="4.37" width="200" height="115.63" as="geometry" />
         </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wvz_z9VY7CSaRn-tdoof-62" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3360" y="55" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wvz_z9VY7CSaRn-tdoof-68" target="VVfUmSjJVpdnyqoUGRQB-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-62" value="Situação simulada de Aprovação" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" parent="1" vertex="1">
-          <mxGeometry x="3170" y="10" width="140" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wvz_z9VY7CSaRn-tdoof-63" edge="1" target="wvz_z9VY7CSaRn-tdoof-69">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3440" y="210" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-70" value="NÃO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wvz_z9VY7CSaRn-tdoof-65" vertex="1" connectable="0">
-          <mxGeometry x="-0.0719" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.561;entryY=0.978;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wvz_z9VY7CSaRn-tdoof-63" edge="1" target="wvz_z9VY7CSaRn-tdoof-68">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3440" y="-100" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-67" value="SIM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="wvz_z9VY7CSaRn-tdoof-66" vertex="1" connectable="0">
-          <mxGeometry x="-0.0719" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-63" value="Aprovado?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3370" y="-10" width="140" height="130" as="geometry" />
-        </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-68" value="Média de 7 ou mais em uma cada disciplina (12)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3340" y="-200" width="180" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="wvz_z9VY7CSaRn-tdoof-69" value="Média inferior a 7 em Cada disciplina (12)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="3350" y="215.63" width="180" height="90" as="geometry" />
+        <mxCell id="wvz_z9VY7CSaRn-tdoof-68" value="O Aluno que Obter a Média 07 ou Superior em todas as UCs será Aprovado. Caso contrário, será retido" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="3170" y="2.8899999999999997" width="220" height="129.23" as="geometry" />
         </mxCell>
         <mxCell id="wvz_z9VY7CSaRn-tdoof-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wvz_z9VY7CSaRn-tdoof-73" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -551,6 +520,51 @@
         </mxCell>
         <mxCell id="wvz_z9VY7CSaRn-tdoof-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="yRRa8dfKZeT0o8Y3_q3s-8" target="wvz_z9VY7CSaRn-tdoof-83" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-1" value="2° Etapa concluída&lt;br&gt;Resta apenas realizar a Matrícula, entre em contato com o SENAI pelo Telefone" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3550" y="180.38" width="250" height="149.62" as="geometry" />
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3090" y="490" as="sourcePoint" />
+            <mxPoint x="3700" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.584;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VVfUmSjJVpdnyqoUGRQB-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3697" y="490" as="sourcePoint" />
+            <mxPoint x="3747" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.566;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wvz_z9VY7CSaRn-tdoof-48" target="VVfUmSjJVpdnyqoUGRQB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.72;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wvz_z9VY7CSaRn-tdoof-80" target="VVfUmSjJVpdnyqoUGRQB-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3800" y="260" as="sourcePoint" />
+            <mxPoint x="4000" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-9" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4000" y="260" as="sourcePoint" />
+            <mxPoint x="4000" y="-670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="4000" y="-670" as="sourcePoint" />
+            <mxPoint x="1500" y="-670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVfUmSjJVpdnyqoUGRQB-11" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="wvz_z9VY7CSaRn-tdoof-83">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1500" y="-670" as="sourcePoint" />
+            <mxPoint x="1490" y="-350" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
