@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T13:47:41.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="2_kJn2quKr2rlL4HhsSK" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-16T11:41:47.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="43n4dnCndGnSJHa0JQKC" version="22.1.2" type="github" pages="2">
   <diagram id="zAwM45DpHathXPrW85D2" name="Página-1">
-    <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="980" pageHeight="690" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,7 +25,7 @@
           <mxGeometry x="730" y="195" width="90" height="45" as="geometry" />
         </mxCell>
         <mxCell id="URq3C6O7KlHp4ZyZ8w96-26" value="Desconsiderar atualização de Saldo" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="900" y="520" width="110" height="50" as="geometry" />
+          <mxGeometry x="890" y="660" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="nw8zfE0IweU4Bdvtm1-o-11" value="SIM" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1332.5" y="230" width="60" height="25" as="geometry" />
@@ -69,12 +69,12 @@
             <mxPoint x="104.5" y="302.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JslAKUoNCHq3lBt2cL_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="9paZCEfjC2MaXkOwci7P-1">
+        <mxCell id="4JslAKUoNCHq3lBt2cL_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9paZCEfjC2MaXkOwci7P-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="672.5" y="430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4JslAKUoNCHq3lBt2cL_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9paZCEfjC2MaXkOwci7P-1">
+        <mxCell id="4JslAKUoNCHq3lBt2cL_-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="9paZCEfjC2MaXkOwci7P-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="670" y="230" as="targetPoint" />
           </mxGeometry>
@@ -133,17 +133,31 @@
             <mxPoint x="1362.35" y="577.15" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j-H4uwWkcxne6lNj_nC7-3" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="j-H4uwWkcxne6lNj_nC7-3" value="Não" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="730" y="420" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j-H4uwWkcxne6lNj_nC7-4" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="j-H4uwWkcxne6lNj_nC7-4" value="Sim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="710" y="260" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4JslAKUoNCHq3lBt2cL_-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4JslAKUoNCHq3lBt2cL_-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="560" y="333.25" as="sourcePoint" />
             <mxPoint x="600" y="333.25" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="DYl5udrveMBFf5uGnkf--1" value="E &amp;lt;V então:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="910" y="430" width="90" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="DYl5udrveMBFf5uGnkf--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=58.4375;exitDy=66.25;exitPerimeter=0;" edge="1" parent="1" source="DYl5udrveMBFf5uGnkf--2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="948" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DYl5udrveMBFf5uGnkf--2" value="Saldo insuficiente" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="540" width="120" height="66.25" as="geometry" />
+        </mxCell>
+        <mxCell id="DYl5udrveMBFf5uGnkf--4" value="E &amp;gt;V então OK&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="910" y="345" width="90" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
